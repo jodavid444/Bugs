@@ -4,7 +4,7 @@
 /* eslint-disable no-plusplus */
 // eslint-disable-next-line no-unused-vars
 function onClickMenu() {
-  document.getElementById('menu').classList.toggle('icon');
+  document.getElementById('menu').classList.toggle('iconn');
   document.getElementById('nav').classList.toggle('change');
 }
 
